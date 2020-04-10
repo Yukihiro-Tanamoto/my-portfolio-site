@@ -37,6 +37,15 @@ nav {
     border-radius: 50%;
 }
 
+p{
+    display: inline-block;
+    text-align: left;
+}
+
+.zemi{
+    font-weight: bold;
+}
+
 .top{
 animation-name:fade-in;
 animation-duration:4s;
