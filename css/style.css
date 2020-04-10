@@ -2,9 +2,6 @@
 
 body {
     background-color: darkgray;
-}
-
-h1{
     text-align: center;
 }
 
@@ -31,14 +28,30 @@ img{
     object-fit: cover;
     border-radius: 50%; 
 }
-
 .sunny{
-    text-align: center;
-}
-
-.sunny .text{
     text-align: left;
     display: inline-block;
+}
+
+.sunny p{
+    max-width: 40em;
+}
+
+.sunny img{
+    margin: auto 5cm;
+}
+
+.me{
+    text-align: left;
+    display: inline-block;
+}
+.me img{
+    float: left;
+    margin: auto 40px 100px auto;
+}
+
+.me p{
+    max-width: 45em;
 }
 
 .zemi{
