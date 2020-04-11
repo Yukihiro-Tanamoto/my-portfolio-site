@@ -29,19 +29,6 @@ img{
     border-radius: 50%; 
 }
 
-.sunny{
-    text-align: left;
-    display: inline-block;
-}
-
-.sunny p{
-    max-width: 40em;
-}
-
-.sunny img{
-    margin: auto 5cm;
-}
-
 .me{
     text-align: left;
     display: inline-block;
@@ -63,3 +50,4 @@ a {
     text-decoration: none;
     color: #333333;
 }
+ 
