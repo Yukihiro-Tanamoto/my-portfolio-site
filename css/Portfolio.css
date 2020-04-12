@@ -32,11 +32,6 @@ div {
     display: inline-block;
 }
 
-.intro li{
-    margin: auto auto auto -200px;
-}
-
-.intro p{
-    margin: auto auto auto -200px;
-    max-width: 45em;
+.intro p{ 
+    max-width: 35em;
 }
