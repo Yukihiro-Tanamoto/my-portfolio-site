@@ -35,3 +35,12 @@ div {
 .intro p{ 
     max-width: 35em;
 }
+
+.port {
+    font-weight: bold;
+}
+
+.blue {
+    text-decoration: underline;
+    color: blue;
+}
